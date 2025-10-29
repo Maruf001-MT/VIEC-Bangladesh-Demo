@@ -20,22 +20,19 @@ class HeaderTemplate extends HTMLElement {
                         <p class="nav-item-title">Destinations</p>
                     </div>
                     <nav class="nav-dropdown-list w-dropdown-list">
-                        <div class="nav-dropdown-link-wrapper"><a href="../destinations" aria-current="page" class="nav-dropdown-link w-dropdown-link w--current"><span class="nav-dropdown-link-dot"> </span>Australia</a><a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Canada</a>
+                        <div class="nav-dropdown-link-wrapper"><a href="../destinations" aria-current="page" class="nav-dropdown-link w-dropdown-link w--current"><span class="nav-dropdown-link-dot"> </span>Australia</a><a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Canada</a><a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Dubai</a>
                             <a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Malaysia</a>
-                            <a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>New Zealand</a>
                             <a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Singapore</a>
-                            <a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>United Kingdom</a>
-                            <a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>USA</a>
                             
                         </div>
                     </nav>
                 </div>
                 <a href="../services" class="nav-link w-nav-link">Our Services</a>
 
-            <div class="button-navbar-wrapper-tab"><a href="/contact-us-1" class="primary-button w-button">Contact Us</a></div>
+            <div class="button-navbar-wrapper-tab"><a href="/contact" class="primary-button w-button">Contact Us</a></div>
         </div>
         </nav>
-        <div class="button-navbar-wrapper-desk"><a href="/contact-us-1" class="primary-button-orange w-button">Contact Us</a></div>
+        <div class="button-navbar-wrapper-desk"><a href="/contact" class="primary-button-orange w-button">Contact Us</a></div>
         <div class="menu-button w-nav-button"><img src="https://cdn.prod.website-files.com/685132432d006ede770341e7/685132432d006ede770344a0_menu-btn.svg" loading="lazy" alt="icon" height="16" class="image-burger" /></div>
     </div>
     </div>

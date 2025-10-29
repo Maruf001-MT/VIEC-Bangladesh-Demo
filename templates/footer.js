@@ -33,8 +33,8 @@ class FooterTemplate extends HTMLElement {
                 <h6 class="white-text mb-10">Follow us</h6><a href="https://www.facebook.com/" target="_blank" class="footer-link">Facebook</a><a href="https://www.linkedin.com/" target="_blank" class="footer-link">Linkedin</a><a href="https://www.instagram.com/" target="_blank"
                     class="footer-link">Instagram</a></div>
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a287d" class="footer-links-wrapper">
-                <h6 class="white-text mb-10">Get in Touch</h6><a href="/services" class="footer-link">Address: <br>Level-5, House #18, Road #24, Block #K, Banani, Dhaka-1213
-</a><a href="/visa" class="footer-link">Phone: 01714-019160</a><a href="/countries" class="footer-link">Email: viec.bangladesh@vieceducation.com</a></div>
+                <h6 class="white-text mb-10">Get in Touch</h6><a href="https://maps.app.goo.gl/StDkfoGTsYd8wDa87" target="_blank" class="footer-link">Address: <br>Level-5, House #18, Road #24, Block #K, Banani, Dhaka-1213
+</a><a href="tel:+8801714-019160" class="footer-link">Phone: 01714-019160</a><a href="mailto:viec.bangladesh@vieceducation.com" class="footer-link">Email: viec.bangladesh@vieceducation.com</a></div>
         </div>
         <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a2891" class="footer-bottom-wrapper">
             <div class="footer-copyright">Copyright ©2025. VIEC Bangladesh. All Rights Reserved.</div>
