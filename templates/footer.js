@@ -22,15 +22,15 @@ class FooterTemplate extends HTMLElement {
                 </div>
             </div>
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a2867" class="footer-links-wrapper">
-                <h6 class="white-text mb-10">Quick Access</h6><a href="/home-1" aria-current="page" class="footer-link w--current">Home</a><a href="/home-2" class="footer-link">About Us</a><a href="/home-3" class="footer-link">Destinations</a><a href="/home-3" class="footer-link">Success Stories</a><a href="/home-2" class="footer-link">Contact Us</a></div>
+                <h6 class="white-text mb-10">Quick Access</h6><a href="/" aria-current="page" class="footer-link w--current">Home</a><a href="/about-us" class="footer-link">About Us</a><a href="/destinations" class="footer-link">Destinations</a><a href="#" class="footer-link">Success Stories</a><a href="/contact" class="footer-link">Contact Us</a></div>
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a2870"
                 class="footer-links-wrapper">
-                <h6 class="white-text mb-10">Company</h6><a href="/about-us" class="footer-link">About us</a><a href="/testimonials" class="footer-link">Testimonials</a><a href="/contact-us-1"
+                <h6 class="white-text mb-10">Company</h6><a href="/about-us" class="footer-link">About us</a><a href="#" class="footer-link">Testimonials</a><a href="/contact"
                     class="footer-link">Contact us</a></div>
             
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a2888"
                 class="footer-links-wrapper">
-                <h6 class="white-text mb-10">Follow us</h6><a href="https://www.facebook.com/" target="_blank" class="footer-link">Facebook</a><a href="https://www.linkedin.com/" target="_blank" class="footer-link">Linkedin</a><a href="https://www.instagram.com/" target="_blank"
+                <h6 class="white-text mb-10">Follow us</h6><a href="https://www.facebook.com/viecbangladesh" target="_blank" class="footer-link">Facebook</a><a href="https://www.linkedin.com/in/viec-bangladesh-4467352a1/" target="_blank" class="footer-link">Linkedin</a><a href="https://www.instagram.com/viec_bd/" target="_blank"
                     class="footer-link">Instagram</a></div>
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a287d" class="footer-links-wrapper">
                 <h6 class="white-text mb-10">Get in Touch</h6><a href="https://maps.app.goo.gl/StDkfoGTsYd8wDa87" target="_blank" class="footer-link">Address: <br>Level-5, House #18, Road #24, Block #K, Banani, Dhaka-1213
