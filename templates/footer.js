@@ -22,7 +22,7 @@ class FooterTemplate extends HTMLElement {
                 </div>
             </div>
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a2867" class="footer-links-wrapper">
-                <h6 class="white-text mb-10">Quick Access</h6><a href="/" aria-current="page" class="footer-link w--current">Home</a><a href="/about-us" class="footer-link">About Us</a><a href="/destinations" class="footer-link">Destinations</a><a href="#" class="footer-link">Success Stories</a><a href="/contact" class="footer-link">Contact Us</a></div>
+                <h6 class="white-text mb-10">Quick Access</h6><a href="/" aria-current="page" class="footer-link w--current">Home</a><a href="/about-us" class="footer-link">About Us</a><a href="/destinations" class="footer-link">Destinations</a><a href="/services" class="footer-link">Our Services</a><a href="/contact" class="footer-link">Contact Us</a></div>
             <div data-w-id="e26020e0-d801-e23a-ec7b-bdd30a5a2870"
                 class="footer-links-wrapper">
                 <h6 class="white-text mb-10">Company</h6><a href="/about-us" class="footer-link">About us</a><a href="#" class="footer-link">Testimonials</a><a href="/contact"
@@ -47,6 +47,11 @@ class FooterTemplate extends HTMLElement {
     </div>
     <div class="promotion-labels-wrapper-to-remove">
       
+    </div>
+    <div class="promotion-labels-wrapper-to-remove">
+        
+        <div class="promotion-label-right"><a href="https://infotitanbd.com/" target="_blank" class="promotion-label-more-templates w-inline-block"><div>Under Construction by InfoTitan</div></a>
+
     </div>
     </div>
   
