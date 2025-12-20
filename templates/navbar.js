@@ -17,7 +17,7 @@ class HeaderTemplate extends HTMLElement {
                 <div data-hover="true" data-delay="0" data-w-id="835e7a36-0bd9-c0ee-0eee-ba31bc15d1f8" class="nav-dropdown w-dropdown">
                     <div class="nav-dropdown-toggle w-dropdown-toggle">
                         <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
-                        <p class="nav-item-title">Destinations</p>
+                        <a href="../destinations"><p class="nav-item-title">Destinations</p></a>
                     </div>
                     <nav class="nav-dropdown-list w-dropdown-list">
                         <div class="nav-dropdown-link-wrapper"><a href="../destinations" aria-current="page" class="nav-dropdown-link w-dropdown-link w--current"><span class="nav-dropdown-link-dot"> </span>Australia</a><a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Canada</a><a href="../destinations" class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-dot"> </span>Dubai</a>
